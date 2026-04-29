@@ -1,0 +1,34 @@
+# Privacy Policy
+
+Tunela VPN may process limited technical data required to provide VPN connection, diagnostics, and app stability monitoring.
+
+## Data categories
+
+- Technical diagnostics (errors, crashes, runtime status)
+- Connection metadata required for app functionality
+- Device/app version metadata required for compatibility and support
+
+## Purpose of processing
+
+- Provide VPN functionality
+- Maintain service stability and reliability
+- Investigate and fix technical issues
+- Improve app quality and user experience
+
+## Third-party services
+
+Tunela may use third-party services for analytics, diagnostics, and update infrastructure as part of app operation.
+
+## Security
+
+Reasonable technical and organizational safeguards are applied to protect processed data.
+
+## Contact
+
+For privacy requests and support inquiries, use:
+
+tunelavpn@proton.me
+
+---
+
+This policy text is a draft artifact for Play Store listing preparation and should be reviewed by the product/legal owner before publication.
