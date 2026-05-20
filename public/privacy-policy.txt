@@ -1,34 +1,69 @@
 # Privacy Policy
 
-Tunela VPN may process limited technical data required to provide VPN connection, diagnostics, and app stability monitoring.
+Tunela VPN processes limited data required to provide VPN functionality, maintain app reliability, show advertising, and comply with privacy and consent requirements.
 
-## Data categories
+## Data We May Process
 
-- Technical diagnostics (errors, crashes, runtime status)
-- Connection metadata required for app functionality
-- Device/app version metadata required for compatibility and support
+Tunela VPN may process:
 
-## Purpose of processing
+- Technical diagnostics, crash reports, logs, and runtime status
+- App version, OS version, device model, language, and compatibility metadata
+- VPN connection metadata required for app functionality and support
+- Advertising identifiers, including Android Advertising ID where available
+- IP address, network connection type, approximate region, and device/app identifiers used by advertising and analytics SDKs
+- Ad events such as ad requests, impressions, clicks, revenue signals, and mediation diagnostics
+- Consent choices and privacy preference signals, including IAB TCF consent data where applicable
 
-- Provide VPN functionality
-- Maintain service stability and reliability
-- Investigate and fix technical issues
-- Improve app quality and user experience
+Tunela VPN does not require users to create an account.
 
-## Third-party services
+## Purposes
 
-Tunela may use third-party services for analytics, diagnostics, and update infrastructure as part of app operation.
+Data may be used to:
+
+- Provide and maintain VPN functionality
+- Diagnose crashes, errors, and service reliability issues
+- Improve app quality and compatibility
+- Show, measure, and improve ads
+- Prevent fraud, abuse, and invalid ad traffic
+- Comply with privacy, consent, and platform requirements
+
+## Advertising and Consent
+
+Tunela VPN uses Appodeal and Google AdMob for advertising and mediation. These services and their advertising partners may collect or receive device, network, advertising, consent, and ad interaction data to serve ads, measure performance, prevent fraud, and comply with applicable laws.
+
+For users in regions where consent is required, Tunela VPN uses a consent management platform compatible with Google UMP and IAB TCF. Users may be shown a consent form and may choose whether to allow personalized advertising where applicable.
+
+Users can also limit ad personalization through Android system settings.
+
+## Third-Party Services
+
+Tunela VPN may use the following third-party services:
+
+- Appodeal for advertising mediation and consent management
+- Google AdMob / Google Mobile Ads for advertising
+- Firebase Analytics for app analytics
+- Firebase Crashlytics for crash reporting
+- Firebase Cloud Messaging for app messaging infrastructure
+
+Third-party services process data according to their own privacy policies.
+
+Appodeal Privacy Policy: https://appodeal.com/privacy-policy/  
+Google Privacy & Terms: https://policies.google.com/privacy  
+How Google uses information from apps: https://policies.google.com/technologies/partner-sites  
+Firebase Privacy and Security: https://firebase.google.com/support/privacy
+
+## Data Sharing
+
+Data may be shared with third-party service providers listed above when needed for app operation, advertising, analytics, diagnostics, fraud prevention, compliance, and support.
 
 ## Security
 
-Reasonable technical and organizational safeguards are applied to protect processed data.
+Reasonable technical and organizational safeguards are used to protect processed data.
 
-## Contact
+## User Choices and Requests
 
-For privacy requests and support inquiries, use:
+Users may manage advertising personalization in Android settings and may use in-app or system-provided consent controls where available.
+
+For privacy requests and support inquiries, contact:
 
 tunelavpn@proton.me
-
----
-
-This policy text is a draft artifact for Play Store listing preparation and should be reviewed by the product/legal owner before publication.
